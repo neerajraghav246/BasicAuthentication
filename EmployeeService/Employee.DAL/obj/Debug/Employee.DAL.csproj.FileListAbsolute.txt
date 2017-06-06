@@ -1,0 +1,10 @@
+c:\users\neeraj\documents\visual studio 2015\Projects\EmployeeService\Employee.DAL\bin\Debug\Employee.DAL.dll.config
+c:\users\neeraj\documents\visual studio 2015\Projects\EmployeeService\Employee.DAL\bin\Debug\Employee.DAL.dll
+c:\users\neeraj\documents\visual studio 2015\Projects\EmployeeService\Employee.DAL\bin\Debug\Employee.DAL.pdb
+c:\users\neeraj\documents\visual studio 2015\Projects\EmployeeService\Employee.DAL\bin\Debug\EntityFramework.dll
+c:\users\neeraj\documents\visual studio 2015\Projects\EmployeeService\Employee.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\neeraj\documents\visual studio 2015\Projects\EmployeeService\Employee.DAL\bin\Debug\EntityFramework.xml
+c:\users\neeraj\documents\visual studio 2015\Projects\EmployeeService\Employee.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\neeraj\documents\visual studio 2015\Projects\EmployeeService\Employee.DAL\obj\Debug\Employee.DAL.dll
+c:\users\neeraj\documents\visual studio 2015\Projects\EmployeeService\Employee.DAL\obj\Debug\Employee.DAL.pdb
+C:\Users\Neeraj\documents\visual studio 2015\Projects\EmployeeService\Employee.DAL\obj\Debug\Employee.DAL.csprojResolveAssemblyReference.cache
